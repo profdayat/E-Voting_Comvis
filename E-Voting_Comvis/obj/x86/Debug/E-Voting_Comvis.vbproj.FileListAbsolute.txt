@@ -1,0 +1,28 @@
+C:\Users\Dayat\Desktop\Project AKHIR\v4 edit - Copy\E-Voting_Comvis\bin\Debug\HandGestureRecognition.exe.config
+C:\Users\Dayat\Desktop\Project AKHIR\v4 edit - Copy\E-Voting_Comvis\obj\x86\Debug\HandGestureRecognition.exe
+C:\Users\Dayat\Desktop\Project AKHIR\v4 edit - Copy\E-Voting_Comvis\obj\x86\Debug\HandGestureRecognition.pdb
+C:\Users\Dayat\Desktop\Project AKHIR\v4 edit - Copy\E-Voting_Comvis\obj\x86\Debug\E-Voting_Comvis.vbprojResolveAssemblyReference.cache
+C:\Users\Dayat\Desktop\Project AKHIR\v4 edit - Copy\E-Voting_Comvis\obj\x86\Debug\EVoting_Comvis.Form1.resources
+C:\Users\Dayat\Desktop\Project AKHIR\v4 edit - Copy\E-Voting_Comvis\obj\x86\Debug\Form2.resources
+C:\Users\Dayat\Desktop\Project AKHIR\v4 edit - Copy\E-Voting_Comvis\obj\x86\Debug\Form3.resources
+C:\Users\Dayat\Desktop\Project AKHIR\v4 edit - Copy\E-Voting_Comvis\obj\x86\Debug\Form4.resources
+C:\Users\Dayat\Desktop\Project AKHIR\v4 edit - Copy\E-Voting_Comvis\obj\x86\Debug\Form5.resources
+C:\Users\Dayat\Desktop\Project AKHIR\v4 edit - Copy\E-Voting_Comvis\obj\x86\Debug\Resources.resources
+C:\Users\Dayat\Desktop\Project AKHIR\v4 edit - Copy\E-Voting_Comvis\obj\x86\Debug\E-Voting_Comvis.vbproj.GenerateResource.Cache
+C:\Users\Dayat\Desktop\Project AKHIR\v4 edit - Copy\E-Voting_Comvis\bin\Debug\cvextern.dll
+C:\Users\Dayat\Desktop\Project AKHIR\v4 edit - Copy\E-Voting_Comvis\bin\Debug\HandGestureRecognition.exe
+C:\Users\Dayat\Desktop\Project AKHIR\v4 edit - Copy\E-Voting_Comvis\bin\Debug\HandGestureRecognition.pdb
+C:\Users\Dayat\Desktop\Project AKHIR\v6\E-Voting_Comvis\bin\Debug\HandGestureRecognition.exe.config
+C:\Users\Dayat\Desktop\Project AKHIR\v6\E-Voting_Comvis\obj\x86\Debug\HandGestureRecognition.exe
+C:\Users\Dayat\Desktop\Project AKHIR\v6\E-Voting_Comvis\obj\x86\Debug\HandGestureRecognition.pdb
+C:\Users\Dayat\Desktop\Project AKHIR\v6\E-Voting_Comvis\bin\Debug\cvextern.dll
+C:\Users\Dayat\Desktop\Project AKHIR\v6\E-Voting_Comvis\bin\Debug\HandGestureRecognition.exe
+C:\Users\Dayat\Desktop\Project AKHIR\v6\E-Voting_Comvis\bin\Debug\HandGestureRecognition.pdb
+C:\Users\Dayat\Desktop\Project AKHIR\v6\E-Voting_Comvis\obj\x86\Debug\E-Voting_Comvis.vbprojResolveAssemblyReference.cache
+C:\Users\Dayat\Desktop\Project AKHIR\v6\E-Voting_Comvis\obj\x86\Debug\EVoting_Comvis.Form1.resources
+C:\Users\Dayat\Desktop\Project AKHIR\v6\E-Voting_Comvis\obj\x86\Debug\Form2.resources
+C:\Users\Dayat\Desktop\Project AKHIR\v6\E-Voting_Comvis\obj\x86\Debug\Form3.resources
+C:\Users\Dayat\Desktop\Project AKHIR\v6\E-Voting_Comvis\obj\x86\Debug\Form4.resources
+C:\Users\Dayat\Desktop\Project AKHIR\v6\E-Voting_Comvis\obj\x86\Debug\Form5.resources
+C:\Users\Dayat\Desktop\Project AKHIR\v6\E-Voting_Comvis\obj\x86\Debug\Resources.resources
+C:\Users\Dayat\Desktop\Project AKHIR\v6\E-Voting_Comvis\obj\x86\Debug\E-Voting_Comvis.vbproj.GenerateResource.Cache

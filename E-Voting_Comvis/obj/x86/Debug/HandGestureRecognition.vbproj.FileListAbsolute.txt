@@ -1,0 +1,256 @@
+D:\1.PROJECT SKRIPSI\Modifikasi 1\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe.config
+C:\Users\Dayat\Desktop\Modifikasi 1\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe.config
+C:\Users\Dayat\Desktop\Modifikasi 1\HandGestureRecognition\bin\Debug\cvextern.dll
+C:\Users\Dayat\Desktop\Modifikasi 1\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe
+C:\Users\Dayat\Desktop\Modifikasi 1\HandGestureRecognition\bin\Debug\HandGestureRecognition.pdb
+C:\Users\Dayat\Desktop\Modifikasi 1\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.dll
+C:\Users\Dayat\Desktop\Modifikasi 1\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+C:\Users\Dayat\Desktop\Modifikasi 1\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.vbprojResolveAssemblyReference.cache
+C:\Users\Dayat\Desktop\Modifikasi 1\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.Form1.resources
+C:\Users\Dayat\Desktop\Modifikasi 1\HandGestureRecognition\obj\x86\Debug\Resources.resources
+C:\Users\Dayat\Desktop\Modifikasi 1\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.vbproj.GenerateResource.Cache
+C:\Users\Dayat\Desktop\Modifikasi 1\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.exe
+C:\Users\Dayat\Desktop\Modifikasi 1\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.pdb
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 4\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe.config
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 4\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.exe
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 4\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.pdb
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 4\HandGestureRecognition\bin\Debug\cvextern.dll
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 4\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 4\HandGestureRecognition\bin\Debug\HandGestureRecognition.pdb
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 4\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.dll
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 4\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 4\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.vbprojResolveAssemblyReference.cache
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 4\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.Form1.resources
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 4\HandGestureRecognition\obj\x86\Debug\Resources.resources
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 4\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.vbproj.GenerateResource.Cache
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 5 - database\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe.config
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 5 - database\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.exe
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 5 - database\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.pdb
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 5 - database\HandGestureRecognition\bin\Debug\cvextern.dll
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 5 - database\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 5 - database\HandGestureRecognition\bin\Debug\HandGestureRecognition.pdb
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 5 - database\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.dll
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 5 - database\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 5 - database\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.vbprojResolveAssemblyReference.cache
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 5 - database\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.Form1.resources
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 5 - database\HandGestureRecognition\obj\x86\Debug\Resources.resources
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 5 - database\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.vbproj.GenerateResource.Cache
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 6 - database & enkripsi\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe.config
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 6 - database & enkripsi\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.exe
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 6 - database & enkripsi\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.pdb
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 6 - database & enkripsi\HandGestureRecognition\bin\Debug\cvextern.dll
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 6 - database & enkripsi\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 6 - database & enkripsi\HandGestureRecognition\bin\Debug\HandGestureRecognition.pdb
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 6 - database & enkripsi\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.dll
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 6 - database & enkripsi\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 6 - database & enkripsi\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.vbprojResolveAssemblyReference.cache
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 6 - database & enkripsi\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.Form1.resources
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 6 - database & enkripsi\HandGestureRecognition\obj\x86\Debug\Resources.resources
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 6 - database & enkripsi\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.vbproj.GenerateResource.Cache
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 6 - database & enkripsi\HandGestureRecognition\bin\Debug\Newtonsoft.Json.Net20.dll
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 6 - Integrasi\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe.config
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 6 - Integrasi\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.exe
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 6 - Integrasi\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.pdb
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 6 - Integrasi\HandGestureRecognition\bin\Debug\cvextern.dll
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 6 - Integrasi\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 6 - Integrasi\HandGestureRecognition\bin\Debug\HandGestureRecognition.pdb
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 6 - Integrasi\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.dll
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 6 - Integrasi\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 6 - Integrasi\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.vbprojResolveAssemblyReference.cache
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 6 - Integrasi\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.Form1.resources
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 6 - Integrasi\HandGestureRecognition\obj\x86\Debug\Resources.resources
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 6 - Integrasi\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.vbproj.GenerateResource.Cache
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 8 - Integrasi & Reporting\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.vbprojResolveAssemblyReference.cache
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 8 - Integrasi & Reporting\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.Form1.resources
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 8 - Integrasi & Reporting\HandGestureRecognition\obj\x86\Debug\Form2.resources
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 8 - Integrasi & Reporting\HandGestureRecognition\obj\x86\Debug\Form3.resources
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 8 - Integrasi & Reporting\HandGestureRecognition\obj\x86\Debug\Resources.resources
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 8 - Integrasi & Reporting\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.vbproj.GenerateResource.Cache
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 8 - Integrasi & Reporting\HandGestureRecognition\bin\Debug\cvextern.dll
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 8 - Integrasi & Reporting\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe.config
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 8 - Integrasi & Reporting\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 8 - Integrasi & Reporting\HandGestureRecognition\bin\Debug\HandGestureRecognition.pdb
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 8 - Integrasi & Reporting\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.dll
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 8 - Integrasi & Reporting\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 8 - Integrasi & Reporting\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.exe
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 8 - Integrasi & Reporting\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.pdb
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 8 - Integrasi, QR & Reporting\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe.config
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 8 - Integrasi, QR & Reporting\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.exe
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 8 - Integrasi, QR & Reporting\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.pdb
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 8 - Integrasi, QR & Reporting\HandGestureRecognition\bin\Debug\cvextern.dll
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 8 - Integrasi, QR & Reporting\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 8 - Integrasi, QR & Reporting\HandGestureRecognition\bin\Debug\HandGestureRecognition.pdb
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 8 - Integrasi, QR & Reporting\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.dll
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 8 - Integrasi, QR & Reporting\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 8 - Integrasi, QR & Reporting\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.vbprojResolveAssemblyReference.cache
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 8 - Integrasi, QR & Reporting\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.Form1.resources
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 8 - Integrasi, QR & Reporting\HandGestureRecognition\obj\x86\Debug\Form2.resources
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 8 - Integrasi, QR & Reporting\HandGestureRecognition\obj\x86\Debug\Form3.resources
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 8 - Integrasi, QR & Reporting\HandGestureRecognition\obj\x86\Debug\Resources.resources
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 8 - Integrasi, QR & Reporting\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.vbproj.GenerateResource.Cache
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 10 - Simulasi\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe.config
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 10 - Simulasi\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.exe
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 10 - Simulasi\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.pdb
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 10 - Simulasi\HandGestureRecognition\bin\Debug\cvextern.dll
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 10 - Simulasi\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 10 - Simulasi\HandGestureRecognition\bin\Debug\HandGestureRecognition.pdb
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 10 - Simulasi\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.dll
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 10 - Simulasi\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 10 - Simulasi\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.vbprojResolveAssemblyReference.cache
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 10 - Simulasi\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.Form1.resources
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 10 - Simulasi\HandGestureRecognition\obj\x86\Debug\Form2.resources
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 10 - Simulasi\HandGestureRecognition\obj\x86\Debug\Form3.resources
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 10 - Simulasi\HandGestureRecognition\obj\x86\Debug\Resources.resources
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 10 - Simulasi\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.vbproj.GenerateResource.Cache
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 11 - Perbaikan Simulasi\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe.config
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 11 - Perbaikan Simulasi\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.exe
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 11 - Perbaikan Simulasi\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.pdb
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 11 - Perbaikan Simulasi\HandGestureRecognition\bin\Debug\cvextern.dll
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 11 - Perbaikan Simulasi\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 11 - Perbaikan Simulasi\HandGestureRecognition\bin\Debug\HandGestureRecognition.pdb
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 11 - Perbaikan Simulasi\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.dll
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 11 - Perbaikan Simulasi\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 11 - Perbaikan Simulasi\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.vbprojResolveAssemblyReference.cache
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 11 - Perbaikan Simulasi\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.Form1.resources
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 11 - Perbaikan Simulasi\HandGestureRecognition\obj\x86\Debug\Form2.resources
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 11 - Perbaikan Simulasi\HandGestureRecognition\obj\x86\Debug\Form3.resources
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 11 - Perbaikan Simulasi\HandGestureRecognition\obj\x86\Debug\Resources.resources
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 11 - Perbaikan Simulasi\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.vbproj.GenerateResource.Cache
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 11 - Perbaikan Simulasi - Copy\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe.config
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 11 - Perbaikan Simulasi - Copy\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.exe
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 11 - Perbaikan Simulasi - Copy\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.pdb
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 11 - Perbaikan Simulasi - Copy\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.vbprojResolveAssemblyReference.cache
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 11 - Perbaikan Simulasi - Copy\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.Form1.resources
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 11 - Perbaikan Simulasi - Copy\HandGestureRecognition\obj\x86\Debug\Form2.resources
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 11 - Perbaikan Simulasi - Copy\HandGestureRecognition\obj\x86\Debug\Form3.resources
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 11 - Perbaikan Simulasi - Copy\HandGestureRecognition\obj\x86\Debug\Form4.resources
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 11 - Perbaikan Simulasi - Copy\HandGestureRecognition\obj\x86\Debug\Resources.resources
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 11 - Perbaikan Simulasi - Copy\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.vbproj.GenerateResource.Cache
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 11 - Perbaikan Simulasi - Copy\HandGestureRecognition\bin\Debug\cvextern.dll
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 11 - Perbaikan Simulasi - Copy\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 11 - Perbaikan Simulasi - Copy\HandGestureRecognition\bin\Debug\HandGestureRecognition.pdb
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 11 - Perbaikan Simulasi - Copy\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.dll
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 11 - Perbaikan Simulasi - Copy\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 12 - Motion For Open Form\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe.config
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 12 - Motion For Open Form\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.exe
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 12 - Motion For Open Form\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.pdb
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 12 - Motion For Open Form\HandGestureRecognition\bin\Debug\cvextern.dll
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 12 - Motion For Open Form\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 12 - Motion For Open Form\HandGestureRecognition\bin\Debug\HandGestureRecognition.pdb
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 12 - Motion For Open Form\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.dll
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 12 - Motion For Open Form\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 12 - Motion For Open Form\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.vbprojResolveAssemblyReference.cache
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 12 - Motion For Open Form\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.Form1.resources
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 12 - Motion For Open Form\HandGestureRecognition\obj\x86\Debug\Form2.resources
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 12 - Motion For Open Form\HandGestureRecognition\obj\x86\Debug\Form3.resources
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 12 - Motion For Open Form\HandGestureRecognition\obj\x86\Debug\Form4.resources
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 12 - Motion For Open Form\HandGestureRecognition\obj\x86\Debug\Resources.resources
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 12 - Motion For Open Form\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.vbproj.GenerateResource.Cache
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 13 - Cek hasil qr code\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe.config
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 13 - Cek hasil qr code\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.exe
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 13 - Cek hasil qr code\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.pdb
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 13 - Cek hasil qr code\HandGestureRecognition\bin\Debug\cvextern.dll
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 13 - Cek hasil qr code\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 13 - Cek hasil qr code\HandGestureRecognition\bin\Debug\HandGestureRecognition.pdb
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 13 - Cek hasil qr code\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.dll
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 13 - Cek hasil qr code\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 13 - Cek hasil qr code\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.vbprojResolveAssemblyReference.cache
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 13 - Cek hasil qr code\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.Form1.resources
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 13 - Cek hasil qr code\HandGestureRecognition\obj\x86\Debug\Form2.resources
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 13 - Cek hasil qr code\HandGestureRecognition\obj\x86\Debug\Form3.resources
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 13 - Cek hasil qr code\HandGestureRecognition\obj\x86\Debug\Form4.resources
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 13 - Cek hasil qr code\HandGestureRecognition\obj\x86\Debug\Resources.resources
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 13 - Cek hasil qr code\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.vbproj.GenerateResource.Cache
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 13 - Cek hasil qr code - Copy\HandGestureRecognition\bin\Debug\cvextern.dll
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 13 - Cek hasil qr code - Copy\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe.config
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 13 - Cek hasil qr code - Copy\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 13 - Cek hasil qr code - Copy\HandGestureRecognition\bin\Debug\HandGestureRecognition.pdb
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 13 - Cek hasil qr code - Copy\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.dll
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 13 - Cek hasil qr code - Copy\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 13 - Cek hasil qr code - Copy\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.vbprojResolveAssemblyReference.cache
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 13 - Cek hasil qr code - Copy\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.Form1.resources
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 13 - Cek hasil qr code - Copy\HandGestureRecognition\obj\x86\Debug\Form2.resources
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 13 - Cek hasil qr code - Copy\HandGestureRecognition\obj\x86\Debug\Form3.resources
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 13 - Cek hasil qr code - Copy\HandGestureRecognition\obj\x86\Debug\Form4.resources
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 13 - Cek hasil qr code - Copy\HandGestureRecognition\obj\x86\Debug\Resources.resources
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 13 - Cek hasil qr code - Copy\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.vbproj.GenerateResource.Cache
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 13 - Cek hasil qr code - Copy\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.exe
+D:\1.PROJECT SKRIPSI\Program\Modifikasi 13 - Cek hasil qr code - Copy\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.pdb
+C:\Users\Dayat\Desktop\Project AKHIR\v1\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe.config
+C:\Users\Dayat\Desktop\Project AKHIR\v1\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.exe
+C:\Users\Dayat\Desktop\Project AKHIR\v1\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.pdb
+C:\Users\Dayat\Desktop\Project AKHIR\v1\HandGestureRecognition\bin\Debug\cvextern.dll
+C:\Users\Dayat\Desktop\Project AKHIR\v1\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe
+C:\Users\Dayat\Desktop\Project AKHIR\v1\HandGestureRecognition\bin\Debug\HandGestureRecognition.pdb
+C:\Users\Dayat\Desktop\Project AKHIR\v1\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.dll
+C:\Users\Dayat\Desktop\Project AKHIR\v1\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+C:\Users\Dayat\Desktop\Project AKHIR\v1\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.vbprojResolveAssemblyReference.cache
+C:\Users\Dayat\Desktop\Project AKHIR\v1\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.Form1.resources
+C:\Users\Dayat\Desktop\Project AKHIR\v1\HandGestureRecognition\obj\x86\Debug\Form2.resources
+C:\Users\Dayat\Desktop\Project AKHIR\v1\HandGestureRecognition\obj\x86\Debug\Form3.resources
+C:\Users\Dayat\Desktop\Project AKHIR\v1\HandGestureRecognition\obj\x86\Debug\Form4.resources
+C:\Users\Dayat\Desktop\Project AKHIR\v1\HandGestureRecognition\obj\x86\Debug\Resources.resources
+C:\Users\Dayat\Desktop\Project AKHIR\v1\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.vbproj.GenerateResource.Cache
+C:\Users\Dayat\Desktop\Project AKHIR\v1\HandGestureRecognition\obj\x86\Debug\Form5.resources
+C:\Users\Dayat\Desktop\Project AKHIR\v2\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe.config
+C:\Users\Dayat\Desktop\Project AKHIR\v2\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.exe
+C:\Users\Dayat\Desktop\Project AKHIR\v2\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.pdb
+C:\Users\Dayat\Desktop\Project AKHIR\v2\HandGestureRecognition\bin\Debug\cvextern.dll
+C:\Users\Dayat\Desktop\Project AKHIR\v2\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe
+C:\Users\Dayat\Desktop\Project AKHIR\v2\HandGestureRecognition\bin\Debug\HandGestureRecognition.pdb
+C:\Users\Dayat\Desktop\Project AKHIR\v2\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.dll
+C:\Users\Dayat\Desktop\Project AKHIR\v2\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+C:\Users\Dayat\Desktop\Project AKHIR\v2\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.vbprojResolveAssemblyReference.cache
+C:\Users\Dayat\Desktop\Project AKHIR\v2\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.Form1.resources
+C:\Users\Dayat\Desktop\Project AKHIR\v2\HandGestureRecognition\obj\x86\Debug\Form2.resources
+C:\Users\Dayat\Desktop\Project AKHIR\v2\HandGestureRecognition\obj\x86\Debug\Form3.resources
+C:\Users\Dayat\Desktop\Project AKHIR\v2\HandGestureRecognition\obj\x86\Debug\Form4.resources
+C:\Users\Dayat\Desktop\Project AKHIR\v2\HandGestureRecognition\obj\x86\Debug\Form5.resources
+C:\Users\Dayat\Desktop\Project AKHIR\v2\HandGestureRecognition\obj\x86\Debug\Resources.resources
+C:\Users\Dayat\Desktop\Project AKHIR\v2\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.vbproj.GenerateResource.Cache
+C:\Users\Dayat\Desktop\v3\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe.config
+C:\Users\Dayat\Desktop\v3\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.exe
+C:\Users\Dayat\Desktop\v3\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.pdb
+C:\Users\Dayat\Desktop\v3\HandGestureRecognition\bin\Debug\cvextern.dll
+C:\Users\Dayat\Desktop\v3\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe
+C:\Users\Dayat\Desktop\v3\HandGestureRecognition\bin\Debug\HandGestureRecognition.pdb
+C:\Users\Dayat\Desktop\v3\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.dll
+C:\Users\Dayat\Desktop\v3\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+C:\Users\Dayat\Desktop\v3\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.vbprojResolveAssemblyReference.cache
+C:\Users\Dayat\Desktop\v3\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.Form1.resources
+C:\Users\Dayat\Desktop\v3\HandGestureRecognition\obj\x86\Debug\Form2.resources
+C:\Users\Dayat\Desktop\v3\HandGestureRecognition\obj\x86\Debug\Form3.resources
+C:\Users\Dayat\Desktop\v3\HandGestureRecognition\obj\x86\Debug\Form4.resources
+C:\Users\Dayat\Desktop\v3\HandGestureRecognition\obj\x86\Debug\Form5.resources
+C:\Users\Dayat\Desktop\v3\HandGestureRecognition\obj\x86\Debug\Resources.resources
+C:\Users\Dayat\Desktop\v3\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.vbproj.GenerateResource.Cache
+C:\Users\Dayat\Desktop\Project AKHIR\v4 edit\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe.config
+C:\Users\Dayat\Desktop\Project AKHIR\v4 edit\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.exe
+C:\Users\Dayat\Desktop\Project AKHIR\v4 edit\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.pdb
+C:\Users\Dayat\Desktop\Project AKHIR\v4 edit\HandGestureRecognition\bin\Debug\cvextern.dll
+C:\Users\Dayat\Desktop\Project AKHIR\v4 edit\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe
+C:\Users\Dayat\Desktop\Project AKHIR\v4 edit\HandGestureRecognition\bin\Debug\HandGestureRecognition.pdb
+C:\Users\Dayat\Desktop\Project AKHIR\v4 edit\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.dll
+C:\Users\Dayat\Desktop\Project AKHIR\v4 edit\HandGestureRecognition\bin\Debug\HandGestureRecognition.SkinDetector.pdb
+C:\Users\Dayat\Desktop\Project AKHIR\v4 edit\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.vbprojResolveAssemblyReference.cache
+C:\Users\Dayat\Desktop\Project AKHIR\v4 edit\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.Form1.resources
+C:\Users\Dayat\Desktop\Project AKHIR\v4 edit\HandGestureRecognition\obj\x86\Debug\Form2.resources
+C:\Users\Dayat\Desktop\Project AKHIR\v4 edit\HandGestureRecognition\obj\x86\Debug\Form3.resources
+C:\Users\Dayat\Desktop\Project AKHIR\v4 edit\HandGestureRecognition\obj\x86\Debug\Form4.resources
+C:\Users\Dayat\Desktop\Project AKHIR\v4 edit\HandGestureRecognition\obj\x86\Debug\Form5.resources
+C:\Users\Dayat\Desktop\Project AKHIR\v4 edit\HandGestureRecognition\obj\x86\Debug\Resources.resources
+C:\Users\Dayat\Desktop\Project AKHIR\v4 edit\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.vbproj.GenerateResource.Cache
+C:\Users\Dayat\Desktop\Project AKHIR\v4 edit - Copy\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe.config
+C:\Users\Dayat\Desktop\Project AKHIR\v4 edit - Copy\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.exe
+C:\Users\Dayat\Desktop\Project AKHIR\v4 edit - Copy\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.pdb
+C:\Users\Dayat\Desktop\Project AKHIR\v4 edit - Copy\HandGestureRecognition\bin\Debug\cvextern.dll
+C:\Users\Dayat\Desktop\Project AKHIR\v4 edit - Copy\HandGestureRecognition\bin\Debug\HandGestureRecognition.exe
+C:\Users\Dayat\Desktop\Project AKHIR\v4 edit - Copy\HandGestureRecognition\bin\Debug\HandGestureRecognition.pdb
+C:\Users\Dayat\Desktop\Project AKHIR\v4 edit - Copy\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.vbprojResolveAssemblyReference.cache
+C:\Users\Dayat\Desktop\Project AKHIR\v4 edit - Copy\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.Form1.resources
+C:\Users\Dayat\Desktop\Project AKHIR\v4 edit - Copy\HandGestureRecognition\obj\x86\Debug\Form2.resources
+C:\Users\Dayat\Desktop\Project AKHIR\v4 edit - Copy\HandGestureRecognition\obj\x86\Debug\Form3.resources
+C:\Users\Dayat\Desktop\Project AKHIR\v4 edit - Copy\HandGestureRecognition\obj\x86\Debug\Form4.resources
+C:\Users\Dayat\Desktop\Project AKHIR\v4 edit - Copy\HandGestureRecognition\obj\x86\Debug\Form5.resources
+C:\Users\Dayat\Desktop\Project AKHIR\v4 edit - Copy\HandGestureRecognition\obj\x86\Debug\Resources.resources
+C:\Users\Dayat\Desktop\Project AKHIR\v4 edit - Copy\HandGestureRecognition\obj\x86\Debug\HandGestureRecognition.vbproj.GenerateResource.Cache
